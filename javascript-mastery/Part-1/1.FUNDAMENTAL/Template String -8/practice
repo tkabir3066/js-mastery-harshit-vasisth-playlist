@@ -1,0 +1,9 @@
+
+let fullName = "Tutul Kabir";
+let age = 29;
+let occupation= "Full Stack Web Developer";
+
+
+
+let details = `Hello , I am ${fullName}, I am ${age} years Old and I am a professional ${occupation}.`;
+console.log(details);
